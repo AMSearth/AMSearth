@@ -43,13 +43,13 @@ Welcome to my GitHub profile! I'm a student and a Programmer deeply passionate a
 <div align="center">
   
   <!-- Animated GitHub Stats -->
-  <a href="https://github.com/Ajinkya-Manoj-Shinde">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ajinkya-Manoj-Shinde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ajinkya's GitHub Stats" />
+  <a href="https://github.com/AMSearth">
+    <img src="https://github-readme-stats.vercel.app/api?username=AMSearth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ajinkya's GitHub Stats" />
   </a>
   
   <!-- Animated Streak Stats -->
-  <a href="https://github.com/Ajinkya-Manoj-Shinde">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajinkya-Manoj-Shinde&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/AMSearth">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMSearth&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 
 </div>
@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a student and a Programmer deeply passionate a
   <a href="https://www.linkedin.com/in/ajinkya-shinde-b8136b27b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:coder.ajinkya.shinde@gmail.com">
+  <a href="mailto:ajinkya.manoj.shinde@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
