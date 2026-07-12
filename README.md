@@ -68,6 +68,9 @@ Welcome to my GitHub profile! I'm a student and a Programmer deeply passionate a
   <a href="https://github.com/AMSearth">
     <img src="https://github-readme-stats.vercel.app/api?username=AMSearth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ajinkya's GitHub Stats" />
   </a>
+  <a href="https://github.com/AMSearth">
+    <img src="https://streak-stats.demolab.com/?user=AMSearth&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
   
 
 
