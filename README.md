@@ -41,21 +41,19 @@ Welcome to my GitHub profile! I'm a student and a Programmer deeply passionate a
 ## 📊 GitHub Analytics
 
 
-  
 <div align="center">
 
-  <!-- Animated GitHub Stats -->
+  <!-- Animated GitHub Stats (Official Vercel Instance) -->
   <a href="https://github.com/AMSearth">
-    <img src="https://github-readme-stats.vercel.app/api?username=AMSearth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="Ajinkya's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AMSearth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ajinkya's GitHub Stats" />
   </a>
   
-  <!-- Animated Streak Stats -->
+  <!-- Animated Streak Stats (Official Demolab Instance) -->
   <a href="https://github.com/AMSearth">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=AMSearth&theme=tokyonight&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=AMSearth&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 
 </div>
-
 ---
 
 ## 📫 Let's Connect!
