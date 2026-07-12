@@ -48,8 +48,9 @@ Welcome to my GitHub profile! I'm a student and a Programmer deeply passionate a
   </a>
   
   <!-- Animated Streak Stats -->
- <a href="https://github.com/AMSearth">
-  <img src="https://streak-stats.demolab.com/?user=AMSearth&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+ <!-- Animated Streak Stats -->
+<a href="https://github.com/AMSearth">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=AMSearth&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </a>
 
 </div>
