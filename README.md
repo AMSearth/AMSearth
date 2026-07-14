@@ -59,20 +59,6 @@ Welcome to my GitHub profile! I'm a student and a Programmer deeply passionate a
 
 ---
 
-## 📊 GitHub Analytics
-
-
-<div align="center">
-
-  <a href="https://github.com/AMSearth">
-    <img src="https://streak-stats.demolab.com/?user=AMSearth&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-  
-
-
-</div>
-
-
 ## 📫 Let's Connect!
 
 <div align="center">
