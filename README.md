@@ -2,7 +2,7 @@
   
 # Hi there, I'm Ajinkya! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25C2A0&center=true&vCenter=true&width=500&lines=Data+Science+Extremist;AI+%26+Software+Developer;Always+Learning+and+Coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25C2A0&center=true&vCenter=true&width=500&lines=Neovim+Extremist;AI+%26+Software+Developer;Always+Learning+and+Coding)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a student and a Programmer deeply passionate about AI, Software Development, and Data Science. I love exploring data, building efficient systems, and crafting clean code.
 
