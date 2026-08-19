@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a student and a Programmer deeply passionate a
 *   🔬 **Specialization:** I specialize in **Data Science**, turning raw data into actionable insights and building intelligent models.
 *   💻 **Tech Enthusiast:** I enjoy working across different layers of software development, from backend logic to scripting.
 *   🛠️ **Workflow:** I am an avid Neovim user, keeping my workflow highly customized and relying strictly on its native, modern package management capabilities for a clean and fast setup.
-*   🌱 **Current Status:** Actively learning as a student and exploring new technologies in the AI and Data space.
+*   🌱 **Current Status:** On job hunt and exploring new technologies in the AI and Data space.
 *   🤝 **Collaboration:** Always open to collaborating on interesting open-source projects or hackathons!
 
 ---
