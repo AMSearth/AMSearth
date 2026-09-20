@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer dedicate
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
 
-### 🏗️ Frontend & Backend Frameworks
+### 🏗️ Frontend, Backend & Data Science Frameworks
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
