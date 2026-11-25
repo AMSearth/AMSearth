@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer dedicate
 *   🌐 **Specialization:** I specialize in **Full Stack Development**, bridging the gap between elegant front-end interfaces and efficient, secure backend logic.
 *   💻 **Tech Enthusiast:** I enjoy working across the entire web stack, from designing RESTful APIs and managing databases to creating responsive, interactive UIs.
 *   🛠️ **Workflow:** I am an avid Neovim user, keeping my workflow highly customized and relying strictly on its native, modern package management capabilities for a clean and fast setup.
-*   🌱 **Current Status:** On the job hunt and constantly exploring new frameworks and tools in the modern web ecosystem.
 *   🤝 **Collaboration:** Always open to collaborating on interesting open-source web projects or hackathons!
 
 ---
